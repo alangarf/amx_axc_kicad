@@ -1,4 +1,4 @@
-update=Tuesday, 04 April 2017 'pmt' 05:22:16 pm
+update=Saturday, 08 April 2017 'pmt' 09:09:06 pm
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,13 @@ LibName29=valves
 LibName30=maxim
 LibName31=SCC2691
 LibName32=M58321
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/Users/alan/Desktop/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=99
